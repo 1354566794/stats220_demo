@@ -1,19 +1,31 @@
-# stats220_demo
+# Welcome to my stats220 repo
 
-This is my demo repo for STATS 220. 
+## About this repository
 
-*I will use this for demonstrating various STATS 220 related teaching things.*
+This repository contains my work for **STATS 220**.  
+I am learning how to use *Markdown*, GitHub, R, and HTML.
 
-Are you one of my students?
+## What I am learning
 
-- Feel free to follow me
-- Feel free to watch this repository
-- You can even ⭐ the repo if you want 
+- How to write with Markdown
+- How to organise files in RStudio Projects
+- How to create images and animations in R
 
-You can also check out my [UoA profile page](https://profiles.auckland.ac.nz/a-fergusson).
+## Project goals
 
-This README file is intentionally boring. It could probably do with some images, or more emoji 😺
+1. Create a meme using R
+2. Add animation to the meme
+3. Produce an HTML report
+4. Share my work using GitHub
 
-## Memes and stuff
+## Useful links
 
-Just a [link to some cat memes](https://icanhas.cheezburger.com/cat-meme-of-the-decade)!
+Here is the course-related software website:  
+[R Project](https://www.r-project.org/)
+
+Here is GitHub:  
+[GitHub](https://github.com/)
+
+## A fun GIF
+
+![](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
